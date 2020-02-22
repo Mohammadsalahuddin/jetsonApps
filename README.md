@@ -8,6 +8,6 @@ The block diagram of the system is given below:</br>
 ![Block Diagram](Block-Diagram.png)
 
 ## Jetson Nano surveillance apps
-![Watch the video](https://www.youtube.com/watch?v=WoeEEPih42Y)
+![[Watch the video]](https://www.youtube.com/watch?v=WoeEEPih42Y)
 ## Details Description of the Project
 link: www.roboticsbangladesh.com
